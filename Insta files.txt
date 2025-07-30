@@ -1,0 +1,5 @@
+*.list
+*.SUCC
+*IndexerVolumeGuid
+*.dat
+*fseventsd-uuid

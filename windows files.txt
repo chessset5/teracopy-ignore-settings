@@ -1,0 +1,2 @@
+*\\Windows.old\\*
+*\\Windows\\System32\\*

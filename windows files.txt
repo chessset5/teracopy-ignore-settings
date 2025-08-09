@@ -1,2 +1,6 @@
+*\\$SysReset\\*
+*\\AMD\\Chipset_Software\\*
+*\\AMD\\RyzenMasterExtraction\\MSIFiles\\Qt_Dependancies\\*
 *\\Windows.old\\*
 *\\Windows\\System32\\*
+*\\Windows\\SysWOW64\\*
